@@ -1,1 +1,2 @@
-which bash
+#!/bin/bash
+pwd
